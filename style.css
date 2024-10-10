@@ -123,7 +123,7 @@ img {
   
   display: grid;
   margin-inline: 1.5rem;
-  padding-block: 5rem;
+  padding-block: 0;
   border-radius: 5px;
    
 }
