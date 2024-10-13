@@ -250,11 +250,10 @@ img {
     top: 8vh;
     right: 0;
     width: 50vw;
-    height: 92vh;
+    height: 35%;
     background: #23232e;
     flex-direction: column;
     align-items: center;
-    
     transform: translateX(100%);
     transition: transform 0.3s ease-in;
   }
